@@ -1,0 +1,10 @@
+body
+{
+background-image: url("https://www.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-11-full.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+html
+{
+  height: 100%;
+}

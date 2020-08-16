@@ -1,0 +1,9 @@
+.cal{
+	padding-bottom: 8%;
+}
+hr {
+	width: 1000px;
+	border-color: black;
+	border-top: 1px solid black;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}

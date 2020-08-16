@@ -1,0 +1,44 @@
+#bank{
+	text-align: center;
+	padding-top: 30%;
+}
+#nav
+{
+	padding-top: 2%;
+}
+body{
+	background-image: url("https://images.unsplash.com/photo-1472289065668-ce650ac443d2?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=cdff4c62302fd44491d4850202323d11&auto=format&fit=crop&w=1050&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Lato;
+}
+h1{
+	
+	font-weight: 700;
+	font-size: 3em;
+}
+html {
+	height: 100%;
+}
+hr {
+	width: 1000px;
+	border-color: black;
+	border-top: 1px solid black;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+#face
+{
+	text-align: center;
+	padding-top: 45%;
+	padding-left: 95%;
+display: inline-block;
+}
+#fac
+{
+		text-align: center;
+	padding-top: 45%;
+	padding-right: 100%;
+display: inline-block;
+margin: 0 10px;
+}
+
